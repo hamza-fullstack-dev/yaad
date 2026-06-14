@@ -1,0 +1,22 @@
+<svg width="320" height="280" viewBox="0 0 320 280" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background blob -->
+  <ellipse cx="160" cy="140" rx="120" ry="110" fill="#FBEEF3"/>
+  <!-- Journal book -->
+  <rect x="80" y="50" width="160" height="190" rx="12" fill="#FAF6F0" stroke="#EDE8E3" stroke-width="1"/>
+  <!-- Spine -->
+  <rect x="80" y="50" width="12" height="190" rx="6" fill="#D4537E"/>
+  <!-- Lines -->
+  <line x1="108" y1="90" x2="224" y2="90" stroke="#EDE8E3" stroke-width="1.5"/>
+  <line x1="108" y1="108" x2="224" y2="108" stroke="#EDE8E3" stroke-width="1.5"/>
+  <line x1="108" y1="126" x2="200" y2="126" stroke="#EDE8E3" stroke-width="1.5"/>
+  <line x1="108" y1="144" x2="224" y2="144" stroke="#EDE8E3" stroke-width="1.5"/>
+  <line x1="108" y1="162" x2="185" y2="162" stroke="#EDE8E3" stroke-width="1.5"/>
+  <!-- Title text block -->
+  <rect x="108" y="65" width="80" height="12" rx="4" fill="#D4537E" opacity="0.5"/>
+  <!-- Cursor -->
+  <rect x="108" y="174" width="2" height="14" rx="1" fill="#D4537E"/>
+  <!-- Pen -->
+  <line x1="230" y1="180" x2="200" y2="210" stroke="#B89160" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="200,210 196,220 206,216" fill="#B89160"/>
+  <rect x="226" y="172" width="10" height="16" rx="3" fill="#B89160" transform="rotate(-45 231 180)"/>
+</svg>

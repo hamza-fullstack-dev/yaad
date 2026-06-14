@@ -1,0 +1,15 @@
+<svg width="240" height="200" viewBox="0 0 240 200" xmlns="http://www.w3.org/2000/svg">
+  <ellipse cx="120" cy="172" rx="75" ry="10" fill="#EDE8E3" opacity="0.5"/>
+  <!-- Book -->
+  <rect x="55" y="35" width="130" height="140" rx="12" fill="white" stroke="#EDE8E3" stroke-width="1.5"/>
+  <rect x="55" y="35" width="14" height="140" rx="7" fill="#D4537E" opacity="0.5"/>
+  <!-- Lines -->
+  <line x1="82" y1="75" x2="170" y2="75" stroke="#EDE8E3" stroke-width="2" stroke-linecap="round"/>
+  <line x1="82" y1="95" x2="170" y2="95" stroke="#EDE8E3" stroke-width="2" stroke-linecap="round"/>
+  <line x1="82" y1="115" x2="155" y2="115" stroke="#EDE8E3" stroke-width="2" stroke-linecap="round"/>
+  <!-- Star sparkle -->
+  <text x="120" y="60" font-size="20" text-anchor="middle" fill="#D4537E" opacity="0.4">✦</text>
+  <!-- Pen -->
+  <line x1="165" y1="148" x2="145" y2="168" stroke="#B89160" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="145,168 141,176 149,172" fill="#B89160"/>
+</svg>

@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(dart analyze lib 2>&1)"
+    ]
+  }
+}

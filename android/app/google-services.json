@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779955954934",
+    "project_id": "yaad-app",
+    "storage_bucket": "yaad-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779955954934:android:2325452a18568b905778d7",
+        "android_client_info": {
+          "package_name": "com.yourname.yaad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1ycEp1v_JOLUIQEC7Ov-ibVaigEu7buk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

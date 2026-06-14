@@ -1,0 +1,14 @@
+<svg width="240" height="200" viewBox="0 0 240 200" xmlns="http://www.w3.org/2000/svg">
+  <ellipse cx="120" cy="170" rx="80" ry="12" fill="#EDE8E3" opacity="0.5"/>
+  <!-- Clipboard -->
+  <rect x="55" y="40" width="130" height="130" rx="14" fill="white" stroke="#EDE8E3" stroke-width="1.5"/>
+  <!-- Clip top -->
+  <rect x="95" y="32" width="50" height="20" rx="10" fill="#D4537E" opacity="0.2" stroke="#D4537E" stroke-width="1.2"/>
+  <!-- Lines -->
+  <line x1="75" y1="85" x2="165" y2="85" stroke="#EDE8E3" stroke-width="2" stroke-linecap="round"/>
+  <line x1="75" y1="105" x2="155" y2="105" stroke="#EDE8E3" stroke-width="2" stroke-linecap="round"/>
+  <line x1="75" y1="125" x2="140" y2="125" stroke="#EDE8E3" stroke-width="2" stroke-linecap="round"/>
+  <!-- Checkmark circle -->
+  <circle cx="120" cy="68" r="18" fill="#FBEEF3"/>
+  <polyline points="111,68 118,75 130,61" stroke="#D4537E" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
