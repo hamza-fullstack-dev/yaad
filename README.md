@@ -1,6 +1,12 @@
 # yaad
 
-A new Flutter project.
+Yaad is a Flutter app. It is in early development.
+
+## Setup
+
+1. Install Flutter. See the [Flutter install guide](https://docs.flutter.dev/get-started/install).
+2. Run `flutter pub get` to get the packages.
+3. Run `flutter run` to start the app on a device or emulator.
 
 ## Getting Started
 
